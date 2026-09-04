@@ -1,5 +1,0 @@
-C:\Users\Carlos\Desktop\Pc-carplay\MediaHelper\MediaHelper.exe
-C:\Users\Carlos\Desktop\Pc-carplay\MediaHelper\MediaHelper.dll
-C:\Users\Carlos\Desktop\Pc-carplay\MediaHelper\MediaHelper.deps.json
-C:\Users\Carlos\Desktop\Pc-carplay\MediaHelper\MediaHelper.runtimeconfig.json
-C:\Users\Carlos\Desktop\Pc-carplay\MediaHelper\MediaHelper.pdb
