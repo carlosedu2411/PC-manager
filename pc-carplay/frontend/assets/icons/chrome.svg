@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Google Chrome">
+  <path fill="#DB4437" d="M32 4a28 28 0 0 1 24.2 14H32a14 14 0 0 0-12.1 7L12.8 14A28 28 0 0 1 32 4Z"/>
+  <path fill="#F4B400" d="M56.2 18A28 28 0 0 1 40.5 58L27 34.5A14 14 0 0 0 32 18h24.2Z"/>
+  <path fill="#0F9D58" d="M40.5 58A28 28 0 0 1 8 20l13.6 23.5A14 14 0 0 0 40.5 58Z"/>
+  <circle cx="32" cy="32" r="10.5" fill="#4285F4" stroke="#fff" stroke-width="3"/>
+</svg>
